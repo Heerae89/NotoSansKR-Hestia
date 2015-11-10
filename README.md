@@ -6,17 +6,18 @@
 [GitHub Pages][1]를 참고해주세요.
 
 ##### 사용법
+ * CDN의 안정성을 위해 개인수정
 
 HTML에서
 
 ```html
-<link href='https://cdn.rawgit.com/theeluwin/NotoSansKR-Hestia/master/stylesheets/NotoSansKR-Hestia.css' rel='stylesheet' type='text/css'>
+<link href='https://cdn.rawgit.com/Heerae89/NotoSansKR-Hestia/master/stylesheets/NotoSansKR-Hestia.css' rel='stylesheet' type='text/css'>
 ```
 
 혹은 CSS에서
 
 ```css
-@import url(https://cdn.rawgit.com/theeluwin/NotoSansKR-Hestia/master/stylesheets/NotoSansKR-Hestia.css);
+@import url(https://cdn.rawgit.com/Heerae89/NotoSansKR-Hestia/master/stylesheets/NotoSansKR-Hestia.css);
 ```
 
 후 다음과 같이 사용
